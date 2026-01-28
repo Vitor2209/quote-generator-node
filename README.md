@@ -2,7 +2,9 @@
 
 Este projeto foi desenvolvido como parte de um desafio prático da Escola Nova Era, com o objetivo de criar uma aplicação simples em Node.js que consome uma API pública para gerar citações aleatórias e exibi-las em uma interface web.
 
+
 🎯 Objetivo do Projeto
+
 
 Permitir que o usuário:
 
@@ -103,7 +105,10 @@ Boas práticas de desenvolvimento
 👨‍💻 Autor
 
 Vitor Dutra Melo
+
 📍 Londres – Reino Unido
+
 💻 Estudante de Desenvolvimento de Software
+
 📫 Contato: vitordutra1125@gmail.com
 
