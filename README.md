@@ -28,9 +28,13 @@ Consuma uma API pública utilizando boas práticas de backend
 🖼️ Screenshots do Projeto
 📌 Interface do usuário
 
+![Interface do Projeto](public/img/ui-project.png)
+
 Imagem da aplicação rodando no navegador, exibindo a citação e o botão para gerar uma nova frase:
 
 📌 Execução do servidor
+
+![Execução no Terminal](public/img/terminal-project.png)
 
 Servidor Node.js rodando localmente com sucesso na porta 3000:
 
